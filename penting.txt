@@ -1,0 +1,8 @@
+link penting buat proyek
+
+https://pysource.com/2019/03/12/face-landmarks-detection-opencv-with-python/
+https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
+https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
+https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/
+https://www.learnopencv.com/histogram-of-oriented-gradients/
